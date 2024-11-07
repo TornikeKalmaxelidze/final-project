@@ -588,4 +588,8 @@ h2 {
     background: #05BCCA;
     border: 2px solid #FFFFFF;
     cursor: pointer;
+    transition:   ease-in 0.3s; 
+}
+.color_nav_form {
+    color: #FFFFFF;
 }

@@ -141,3 +141,8 @@
     box-shadow: 0 3px 10px #05BCCA;
   
 }
+.mapside_button:hover {
+  
+    background: orange;
+   
+} 
